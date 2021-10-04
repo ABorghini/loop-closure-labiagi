@@ -1,0 +1,2 @@
+video_node
+-DCATKIN_DEVEL_PREFIX=/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,17 @@
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/_setup_util.py
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/env.sh
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/setup.bash
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/local_setup.bash
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/setup.sh
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/local_setup.sh
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/setup.zsh
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/local_setup.zsh
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/.rosinstall
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/lib/pkgconfig/robot.pc
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/share/robot/cmake/robotConfig.cmake
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/share/robot/cmake/robotConfig-version.cmake
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/share/robot/package.xml
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/lib/pkgconfig/video_node.pc
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/share/video_node/cmake/video_nodeConfig.cmake
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/share/video_node/cmake/video_nodeConfig-version.cmake
+/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install/share/video_node/package.xml
