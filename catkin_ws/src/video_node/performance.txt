@@ -1,0 +1,54 @@
+100 campioni, inliers 8: 
+micro precision 0.9601406799531067 macro precision 0.8375503806538289
+micro recall 0.9601406799531067 macro recall 0.5234020258470137
+
+100 campioni, inliers 7: 
+micro precision 0.9597499023055881 macro precision 0.9798592100117325
+micro recall 0.9597499023055881 macro recall 0.5095238095238095
+
+100 campioni, inliers 6: 
+micro precision 0.958968347010551 macro precision 0.7303844644958808
+micro recall 0.958968347010551 macro recall 0.5227907789032483
+
+100 campioni: 
+micro precision 0.9284876905041032 macro precision 0.535886539243595
+micro recall 0.9284876905041032 macro recall 0.534247293049249
+
+50 campioni: 
+micro precision 0.9441187964048456 macro precision 0.5402710243124751
+micro recall 0.9441187964048456 macro recall 0.5196064733962045
+
+50 campioni, inliers 6: 
+micro precision 0.9601406799531067 macro precision 0.8802270947533282
+micro recall 0.9601406799531067 macro recall 0.518843870066364
+
+50 campioni, inliers 7: 
+micro precision 0.9593591246580696 macro precision 0.7800313234142522
+micro recall 0.9593591246580696 macro recall 0.5138782163232041
+
+20 campioni: 
+micro precision 0.9550605705353654 macro precision 0.6053072075620323
+micro recall 0.9550605705353654 macro recall 0.5207532890906974
+
+20 campioni, inliers 0: 
+micro precision 0.9570144587729582 macro precision 0.6470125786163522
+micro recall 0.9570144587729582 macro recall 0.5217720339969729
+
+20 campioni, inliers 0: 
+micro precision 0.9550605705353654 macro precision 0.6053072075620323
+micro recall 0.9550605705353654 macro recall 0.5207532890906974
+
+20 campioni, inliers 6: 
+micro precision 0.9601406799531067 macro precision 0.9800469483568075
+micro recall 0.9601406799531067 macro recall 0.5142857142857142
+
+20 campioni, inliers 7: 
+micro precision 0.9605314576006252 macro precision 0.9802348336594913
+micro recall 0.9605314576006252 macro recall 0.5190476190476191
+
+20 campioni, inliers 8: 
+micro precision 0.9601406799531067 macro precision 0.9800469483568075
+micro recall 0.9601406799531067 macro recall 0.5142857142857142
+
+
+
