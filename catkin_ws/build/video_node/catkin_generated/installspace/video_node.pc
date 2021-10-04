@@ -1,0 +1,8 @@
+prefix=/home/alessia/Desktop/Loop Closure/loop-closure-labiagi/catkin_ws/install
+
+Name: video_node
+Description: Description of video_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
